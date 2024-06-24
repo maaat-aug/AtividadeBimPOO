@@ -1,0 +1,15 @@
+D:\Facul\Lista de Exercicios 2B POO\Exercicio 2\Exercicio 2\obj\Debug\net8.0\Exercicio 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facul\Lista de Exercicios 2B POO\Exercicio 2\Exercicio 2\obj\Debug\net8.0\Exercicio 2.AssemblyInfoInputs.cache
+D:\Facul\Lista de Exercicios 2B POO\Exercicio 2\Exercicio 2\obj\Debug\net8.0\Exercicio 2.AssemblyInfo.cs
+D:\Facul\Lista de Exercicios 2B POO\Exercicio 2\Exercicio 2\obj\Debug\net8.0\Exercicio 2.csproj.CoreCompileInputs.cache
+D:\Facul\Lista de Exercicios 2B POO\Exercicio 2\Exercicio 2\obj\Debug\net8.0\Exercicio 2.sourcelink.json
+D:\Facul\Lista de Exercicios 2B POO\Exercicio 2\Exercicio 2\bin\Debug\net8.0\Exercicio 2.exe
+D:\Facul\Lista de Exercicios 2B POO\Exercicio 2\Exercicio 2\bin\Debug\net8.0\Exercicio 2.deps.json
+D:\Facul\Lista de Exercicios 2B POO\Exercicio 2\Exercicio 2\bin\Debug\net8.0\Exercicio 2.runtimeconfig.json
+D:\Facul\Lista de Exercicios 2B POO\Exercicio 2\Exercicio 2\bin\Debug\net8.0\Exercicio 2.dll
+D:\Facul\Lista de Exercicios 2B POO\Exercicio 2\Exercicio 2\bin\Debug\net8.0\Exercicio 2.pdb
+D:\Facul\Lista de Exercicios 2B POO\Exercicio 2\Exercicio 2\obj\Debug\net8.0\Exercicio 2.dll
+D:\Facul\Lista de Exercicios 2B POO\Exercicio 2\Exercicio 2\obj\Debug\net8.0\refint\Exercicio 2.dll
+D:\Facul\Lista de Exercicios 2B POO\Exercicio 2\Exercicio 2\obj\Debug\net8.0\Exercicio 2.pdb
+D:\Facul\Lista de Exercicios 2B POO\Exercicio 2\Exercicio 2\obj\Debug\net8.0\Exercicio 2.genruntimeconfig.cache
+D:\Facul\Lista de Exercicios 2B POO\Exercicio 2\Exercicio 2\obj\Debug\net8.0\ref\Exercicio 2.dll

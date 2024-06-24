@@ -1,0 +1,29 @@
+D:\Facul\Lista de Exercicios 2B POO\Exercicio 1\Exercicio 1\bin\Debug\net8.0\Exercicio 1.exe
+D:\Facul\Lista de Exercicios 2B POO\Exercicio 1\Exercicio 1\bin\Debug\net8.0\Exercicio 1.deps.json
+D:\Facul\Lista de Exercicios 2B POO\Exercicio 1\Exercicio 1\bin\Debug\net8.0\Exercicio 1.runtimeconfig.json
+D:\Facul\Lista de Exercicios 2B POO\Exercicio 1\Exercicio 1\bin\Debug\net8.0\Exercicio 1.dll
+D:\Facul\Lista de Exercicios 2B POO\Exercicio 1\Exercicio 1\bin\Debug\net8.0\Exercicio 1.pdb
+D:\Facul\Lista de Exercicios 2B POO\Exercicio 1\Exercicio 1\obj\Debug\net8.0\Exercicio 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facul\Lista de Exercicios 2B POO\Exercicio 1\Exercicio 1\obj\Debug\net8.0\Exercicio 1.AssemblyInfoInputs.cache
+D:\Facul\Lista de Exercicios 2B POO\Exercicio 1\Exercicio 1\obj\Debug\net8.0\Exercicio 1.AssemblyInfo.cs
+D:\Facul\Lista de Exercicios 2B POO\Exercicio 1\Exercicio 1\obj\Debug\net8.0\Exercicio 1.csproj.CoreCompileInputs.cache
+D:\Facul\Lista de Exercicios 2B POO\Exercicio 1\Exercicio 1\obj\Debug\net8.0\Exercicio 1.dll
+D:\Facul\Lista de Exercicios 2B POO\Exercicio 1\Exercicio 1\obj\Debug\net8.0\refint\Exercicio 1.dll
+D:\Facul\Lista de Exercicios 2B POO\Exercicio 1\Exercicio 1\obj\Debug\net8.0\Exercicio 1.pdb
+D:\Facul\Lista de Exercicios 2B POO\Exercicio 1\Exercicio 1\obj\Debug\net8.0\Exercicio 1.genruntimeconfig.cache
+D:\Facul\Lista de Exercicios 2B POO\Exercicio 1\Exercicio 1\obj\Debug\net8.0\ref\Exercicio 1.dll
+D:\Facul\Lista de Exercicios 2B POO\Exercicio1\Exercicio 1\bin\Debug\net8.0\Exercicio 1.exe
+D:\Facul\Lista de Exercicios 2B POO\Exercicio1\Exercicio 1\bin\Debug\net8.0\Exercicio 1.deps.json
+D:\Facul\Lista de Exercicios 2B POO\Exercicio1\Exercicio 1\bin\Debug\net8.0\Exercicio 1.runtimeconfig.json
+D:\Facul\Lista de Exercicios 2B POO\Exercicio1\Exercicio 1\bin\Debug\net8.0\Exercicio 1.dll
+D:\Facul\Lista de Exercicios 2B POO\Exercicio1\Exercicio 1\bin\Debug\net8.0\Exercicio 1.pdb
+D:\Facul\Lista de Exercicios 2B POO\Exercicio1\Exercicio 1\obj\Debug\net8.0\Exercicio 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facul\Lista de Exercicios 2B POO\Exercicio1\Exercicio 1\obj\Debug\net8.0\Exercicio 1.AssemblyInfoInputs.cache
+D:\Facul\Lista de Exercicios 2B POO\Exercicio1\Exercicio 1\obj\Debug\net8.0\Exercicio 1.AssemblyInfo.cs
+D:\Facul\Lista de Exercicios 2B POO\Exercicio1\Exercicio 1\obj\Debug\net8.0\Exercicio 1.csproj.CoreCompileInputs.cache
+D:\Facul\Lista de Exercicios 2B POO\Exercicio1\Exercicio 1\obj\Debug\net8.0\Exercicio 1.sourcelink.json
+D:\Facul\Lista de Exercicios 2B POO\Exercicio1\Exercicio 1\obj\Debug\net8.0\Exercicio 1.dll
+D:\Facul\Lista de Exercicios 2B POO\Exercicio1\Exercicio 1\obj\Debug\net8.0\refint\Exercicio 1.dll
+D:\Facul\Lista de Exercicios 2B POO\Exercicio1\Exercicio 1\obj\Debug\net8.0\Exercicio 1.pdb
+D:\Facul\Lista de Exercicios 2B POO\Exercicio1\Exercicio 1\obj\Debug\net8.0\Exercicio 1.genruntimeconfig.cache
+D:\Facul\Lista de Exercicios 2B POO\Exercicio1\Exercicio 1\obj\Debug\net8.0\ref\Exercicio 1.dll
